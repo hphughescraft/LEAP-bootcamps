@@ -1,3 +1,5 @@
+This repository contains workshop materials for climate & AI data science. 
+
 # LEAP Climate Data Science Bootcamps 
 
 LEAP offers a few bootcamps on Climate Data Science each year using LEAP Pangeo Jupyter Hub.
